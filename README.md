@@ -10,8 +10,8 @@ Our source code is split into three colab notebooks. They are:
 
 1. Text_Coherence_Dataset_Generation
 It contains code to synthesize the two datasets whose details are mentioned in the report:
-	a. Where the Reddit posts and comments are considered separately
-	b. Where the Reddit Posts and top 10 comments are considered.
+	- Where the Reddit posts and comments are considered separately
+	- Where the Reddit Posts and top 10 comments are considered.
 - Note: To run this notebook successfully, make sure to have the redditDataset folder in your google drive root directory.
 - Use the following link to download the zip dataset folder:
 https://www.kaggle.com/ammar111/reddit-top-1000
